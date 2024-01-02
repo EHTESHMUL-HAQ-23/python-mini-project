@@ -1,3 +1,5 @@
+# Quiz Game simple program
+
 print("welcome to my mini game project.")
 
 playing=input("Are you want to play with me ?.")
@@ -20,7 +22,7 @@ if answer.lower()=="python":
     mark +=1  
 else:
     print("incorrect!")
- 
+
 answer=input("full form of OS ? ") # 3
 
 if answer.lower()=="operating system":
